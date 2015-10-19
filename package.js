@@ -1,7 +1,7 @@
 Package.describe({
   name: 'ramonitor:office-ui-fabric',
-  version: '0.0.1',
-  summary: 'Office UI Fabric 1.0.0',
+  version: '0.0.2',
+  summary: 'Office UI Fabric 1.1.3',
   git: 'https://github.com/ramonitor/meteor-office-ui-fabric',
   documentation: 'README.md'
 });
